@@ -1,1 +1,1 @@
-# opencl-mandelbrot
+# Mandelbrot set drawing with OpenCL and OpenGL
