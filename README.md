@@ -1,1 +1,3 @@
-# Mandelbrot set drawing with OpenCL and OpenGL
+# Implementation of the floating point number
+
+## Visualized with the Mandelbrot set drawn with OpenCL and OpenGL
